@@ -1,0 +1,12 @@
+1. Install GitHub from the following link : - https://git-scm.com/install/windows
+2. Click on the following option - Git for Windows/x64 Setup for the Windows-based laptop
+3. After the completion of installation of software do the following:
+    Open Git Bash and type the following commands:
+      git config --global user.name "Your-name"
+      git config --global user.email "yourname@example.com"
+4. Login to your GitHub account and you're good to begin.
+5. Press on '+' icon and then click on "New Repository".
+6. Name your repository.
+7. Set the visibility to "Public"
+8. Check the box that says "Add a README file". This file acts as a homepage where you can add your notes.
+9. Click on "Create Repository".
