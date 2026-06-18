@@ -1,5 +1,5 @@
 1. Install GitHub from the following link : - https://git-scm.com/install/windows
-2. Click on the following option - Git for Windows/x64 Setup for the Windows-based laptop
+2. Click on the following option - "Git for Windows/x64 Setup" for the Windows-based laptop
 3. After the completion of installation of software do the following:
     Open Git Bash and type the following commands:
       git config --global user.name "Your-name"
