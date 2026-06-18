@@ -1,0 +1,9 @@
+What is a program?
+  - A program is a series of instructions that causes a computer or microcontroller to perform a particular task.
+  - A computer program includes more than just instructions. It also contains data and various memory addresses on which the instructions work to perform specific tasks.
+Programming languages in Embedded Systems
+  - C & C++ (most widely used) C is still the number one and highly favoured programming language in embedded systems.
+  - Assembly
+  - Rust
+  - Java
+  - Python
